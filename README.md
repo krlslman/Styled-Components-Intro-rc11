@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+<img src="https://i.ibb.co/QvZpwrf/rc11-1-styledcomponents.gif" width="200" />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
